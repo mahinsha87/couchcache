@@ -1,0 +1,37 @@
+{
+  "author": {
+    "name": "Glynn Bird"
+  },
+  "bugs": {
+    "url": "https://github.com/touchlocal/couchcache/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "async": "^2.6.2",
+    "moment": "^2.24.0",
+    "nano": "^8.1.0",
+    "underscore": "^1.9.1"
+  },
+  "deprecated": false,
+  "description": "Node.js library for a CouchDB cache service",
+  "devDependencies": {
+    "memcached": "*",
+    "mocha": "*",
+    "should": "*"
+  },
+  "homepage": "https://github.com/touchlocal/couchcache#readme",
+  "keywords": [
+    "CouchDB",
+    "cache",
+    "memcache",
+    "couch"
+  ],
+  "license": "BSD",
+  "main": "couchcache.js",
+  "name": "couchcache",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touchlocal/couchcache.git"
+  },
+  "version": "0.0.13"
+}
